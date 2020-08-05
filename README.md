@@ -1,11 +1,11 @@
 # Data_Analysis
 The repository is devoted to improving my skills in Data analysis and craving attemption to not forget all the thin moments of it.
 
-It includes next parts:
+<b> It includes next parts: </b>
 - Works and files are from the university practice, lectures, tasks
 - My own matters and wishes 
 
-I hope it will include next items in the future:
+<b> I hope it will include next items in the future: </b>
 - All species of hypothesis 
 - Variance analysis
 - Statistics matters(building intervals, boxplots, histograms and e.t.c)
