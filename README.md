@@ -12,3 +12,6 @@ I hope it will include next items in the future:
 - Cluster analysis view 
 - Factor analysis, PCA(kernel+), SVD
 - Working with a data(preproccesing, missing gaps and e.t.c)
+- Discribing A/B test and conjoint analysis 
+
+<img  src="https://i.ytimg.com/vi/KlGWfKNudN4/maxresdefault.jpg" alt="center" width="767" height="430">
